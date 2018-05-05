@@ -1,0 +1,13 @@
+<html>
+    <head>
+         <meta charset="UTF-8">
+        <title>Pagina</title>
+			
+    </head>
+    <body>
+    	get_stylesheet_directory() is located in Z:\3 ANO\DACS2018\DOCKER\wpluan\luan/cropped.png
+		echo get_template_directory();
+		
+    </body>
+
+</html>
